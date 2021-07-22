@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:10.10-slim
 
 MAINTAINER TH3XACE <BLALAA> 
 LABEL description="This docker was created for testing the tool SUDO_KILLER available on github. The tool was developped to identify and exploit misconfigurations within sudo rules as well as vulnerable version of sudo itself. \
